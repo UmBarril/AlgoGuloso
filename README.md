@@ -2,6 +2,8 @@ Olá!
 
 Essa é a minha implementação do [Algoritmo Guloso](https://en.wikipedia.org/wiki/Greedy_algorithm) usando ``Python`` e a biblioteca [manim](https://github.com/ManimCommunity/manim)
 
+Esse algoritmo foi ensinado nas aulas de Matemática Discreta do curso de L.C.C. na UFPB pelo Prof. José Laudelino.
+
 Esse repositório é apenas um teste. Pretendo refazer esse código do zero usando OpenGL em ``C++`` no futuro.
 
 # Uso

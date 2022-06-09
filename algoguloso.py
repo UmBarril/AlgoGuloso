@@ -7,7 +7,7 @@ from manim import *
 # https://en.wikipedia.org/wiki/Greedy_algorithm
 # 
 # Esse algoritmo foi ensinado nas aulas de Matemática Discreta do curso de
-# Licenciatura em Ciência da Computação na UFPB
+# Licenciatura em Ciência da Computação na UFPB pelo professor Laudelino
 
 @dataclass
 class Vertice:
