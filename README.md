@@ -23,4 +23,4 @@ Procure pela pasta "media". Ela deve ter sido criada dentro desse diretório qua
 Normalmente, o vídeo com o resultado vai estar lá.
 
 ___
-Caso tenha mais perguntas, crie uma Issue. Vou te ajudar.
+Caso tenha mais perguntas, crie uma Issue. Estou a disposição!
