@@ -1,0 +1,1 @@
+manim -pqh algoguloso.py
