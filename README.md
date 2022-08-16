@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Olá!
 
 Essa é a minha implementação do [Algoritmo Guloso](https://en.wikipedia.org/wiki/Greedy_algorithm) usando ``Python`` e a biblioteca [manim](https://github.com/ManimCommunity/manim)
@@ -24,3 +25,7 @@ Normalmente, o vídeo com o resultado vai estar lá.
 
 ___
 Caso tenha mais perguntas, crie uma Issue. Estou a disposição!
+=======
+# AlgoGuloso
+Implementação do Greedy Algorithm usando Python e Manim Community
+>>>>>>> main
