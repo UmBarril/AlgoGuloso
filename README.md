@@ -6,6 +6,12 @@ Esse algoritmo foi ensinado nas aulas de Matemática Discreta do curso de L.C.C.
 
 Esse repositório é apenas um teste. Pretendo refazer esse código do zero usando OpenGL em ``C++`` no futuro.
 
+# Exemplo
+
+![exemplo](https://github.com/user-attachments/assets/67bf9ed8-df43-4329-96fd-d78896727405)
+
+Resultado a partir de uma lista de pontos.
+
 # Uso
 - Passo 1: siga as [instruções](https://docs.manim.community/en/stable/installation.html) de instalação do Manim Community
 
